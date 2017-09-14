@@ -13,5 +13,5 @@ tony:
   test: 这是webmvc的配置
 
 redis:
-  host: localhost
+  host: 47.94.102.25
   port: 6379
