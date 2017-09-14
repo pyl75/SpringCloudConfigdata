@@ -4,6 +4,6 @@ spring:
     host: 47.94.102.25
     username: guest
     # 密文需要以{cipher}做为标识
-    password: '{cipher}31010f99731d4bd8aa7e3ce76152b5686265e1160043aac7cf769c3c8e1bb7ef'
+    password: '{cipher}2ac8510448ebb9271c59ddd5a5349a164fd8574414d02cf56a966ab3613daa8c'
 tony:
   applicationText: 这是这是开发环境公共配置
