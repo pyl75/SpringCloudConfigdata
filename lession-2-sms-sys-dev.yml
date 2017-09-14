@@ -12,5 +12,5 @@ tony:
   configString: 这是开发环境
   devString: 开发环境特有的配置
 redis:
-  host: localhost
+  host: 47.94.102.25
   port: 6379
