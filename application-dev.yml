@@ -2,8 +2,8 @@
 spring:
   rabbitmq:
     host: 192.168.99.101
-    username: guest
+    username: admin
     # 密文需要以{cipher}做为标识
-    password: '{cipher}2ac8510448ebb9271c59ddd5a5349a164fd8574414d02cf56a966ab3613daa8c'
+    password: '{cipher}bc90211fd001384166db376d6c3a2af9db99377b1acf5fe13fe7f69a34200c5a'
 tony:
   applicationText: 这是这是开发环境公共配置 
