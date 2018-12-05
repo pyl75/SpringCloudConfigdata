@@ -1,7 +1,7 @@
 # 这个会被所有应用读取到，用来做公共配置
 spring:
   rabbitmq:
-    host: 47.94.102.25
+    host: 192.168.99.101
     username: guest
     # 密文需要以{cipher}做为标识
     password: '{cipher}2ac8510448ebb9271c59ddd5a5349a164fd8574414d02cf56a966ab3613daa8c'
