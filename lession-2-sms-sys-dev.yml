@@ -9,7 +9,7 @@ management:
     enabled: false
 
 tony:
-  configString: 这是开发环境测试 push 1
+  configString: 这是开发环境测试 push 2.0版本
   devString: 开发环境特有的配置
 redis:
   host: 47.94.102.25
